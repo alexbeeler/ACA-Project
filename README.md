@@ -7,11 +7,13 @@ I visualized my results using Matplotlib.
 
 Steps to run file:
 <ol>
-<li>Pull Repo From<\li>
-<li>Open Jupyter Notebook<\li>
-<li>Run<\li>
-Dependencies:
+<li>Pull Repo From
+<li>Open Jupyter Notebook
+<li>Run
 <\ol>
+  
+Dependencies:
+
 os
 sqlite3
 csv
