@@ -9,7 +9,7 @@ Steps to run file:
 <ol>
 <li>Pull Repo From https://github.com/alexbeeler/ACA-Project.git
 <li>Open Jupyter Notebook
-<li>Run 
+<li>Run My_ACA_Project.ipynb
 
   
 Dependencies:
@@ -19,4 +19,4 @@ Dependencies:
 <li>csv
 <li>pandas
 <li>numpy
-<li>matplotlibc
+<li>seaborn
