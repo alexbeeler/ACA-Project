@@ -7,9 +7,9 @@ I visualized my results using Seaborn.
 
 Steps to run file:
 <ol>
-<li>Pull Repo From
+<li>Pull Repo From https://github.com/alexbeeler/ACA-Project.git
 <li>Open Jupyter Notebook
-<li>Run
+<li>Run 
 
   
 Dependencies:
