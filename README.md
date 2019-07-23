@@ -6,12 +6,12 @@ In this project, I collected data on the Affordable Care Act law that went into 
 I visualized my results using Matplotlib.
 
 Steps to run file:
-
-Pull Repo From
-Open Jupyter Notebook
-Run
+<ol>
+<li>Pull Repo From<\li>
+<li>Open Jupyter Notebook<\li>
+<li>Run<\li>
 Dependencies:
-
+<\ol>
 os
 sqlite3
 csv
